@@ -1,15 +1,15 @@
 # Learning Web Dev — Progress Log
 
-## Day 1 — Environment Setup
-- Installed VS Code
-- Installed Git (v2.50.1 via Apple Command Line Tools)
-- Configured Terminal font size for large monitor
-- Resolved long-standing mental model confusion about "pull" vs "Pull Request"
+## Day 5 - Hello World
+- Created index.html file
+- Added HTML code to create a Hello World page
+- Added it to my repo, committed it with the message
+- Pushed to GitHub
 
-## Day 2 — Git Identity and VS Code
-- Configured git user.name and user.email
-- Explored VS Code sidebar: Explorer, Search, Source Control, Extensions
-- Confirmed Git works from VS Code's built-in terminal
+## Day 4 - First Real Edit and Push
+- Edited README.md with project description
+- Ran the full add → commit → push cycle
+- Confirmed changes appeared on GitHub
 
 ## Day 3 — GitHub and First Repo
 - Created GitHub account
@@ -17,13 +17,15 @@
 - Cloned repo to local machine
 - Opened project in VS Code
 
-## Day 4 - First Real Edit and Push
-- Edited README.md with project description
-- Ran the full add → commit → push cycle
-- Confirmed changes appeared on GitHub
+## Day 2 — Git Identity and VS Code
+- Configured git user.name and user.email
+- Explored VS Code sidebar: Explorer, Search, Source Control, Extensions
+- Confirmed Git works from VS Code's built-in terminal
 
-## Day 5 - Hello World
-- Created index.html file
-- Added HTML code to create a Hello World page
-- Added it to my repo, committed it with the message
-- Pushed to GitHub
+## Day 1 — Environment Setup
+- Installed VS Code
+- Installed Git (v2.50.1 via Apple Command Line Tools)
+- Configured Terminal font size for large monitor
+- Resolved long-standing mental model confusion about "pull" vs "Pull Request"
+
+End of File - this file in reverse chronological order.
