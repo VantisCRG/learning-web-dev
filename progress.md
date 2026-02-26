@@ -21,3 +21,9 @@
 - Edited README.md with project description
 - Ran the full add → commit → push cycle
 - Confirmed changes appeared on GitHub
+
+## Day 5 - Hello World
+- Created index.html file
+- Added HTML code to create a Hello World page
+- Added it to my repo, committed it with the message
+- Pushed to GitHub
