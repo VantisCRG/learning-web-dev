@@ -16,3 +16,8 @@
 - Created learning-web-dev repository
 - Cloned repo to local machine
 - Opened project in VS Code
+
+## Day 4 - First Real Edit and Push
+- Edited README.md with project description
+- Ran the full add → commit → push cycle
+- Confirmed changes appeared on GitHub
