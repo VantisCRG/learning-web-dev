@@ -1,5 +1,10 @@
 # Learning Web Dev — Progress Log
 
+## Day 6 and Day 7
+### Friday 2026/02/27
+- Added various HTML elements
+- Added HTML containers and semantic sections
+
 ## Day 5 - Hello World
 ### Thursday 2026/02/26
 - Created index.html file
