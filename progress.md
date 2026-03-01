@@ -1,5 +1,9 @@
 # Learning Web Dev — Progress Log
 
+## Day 8
+### Saturday 2026/02/28
+- Closed out the month by creating my first form!
+
 ## Day 6 and Day 7
 ### Friday 2026/02/27
 - Added various HTML elements
