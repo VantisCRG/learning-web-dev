@@ -1,5 +1,10 @@
 # Learning Web Dev — Progress Log
 
+## Day 10
+### Tuesday 2026/03/03
+- Built the About page
+- Added common nav section to all three pages
+
 ## Day 9
 ### Sunday 2026/03/01
 - Completed the exercise to use the developer tools to inspect my page
