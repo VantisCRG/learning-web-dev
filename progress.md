@@ -1,6 +1,10 @@
 # Learning Web Dev — Progress Log
 
 ## Day 10
+### Wednesday 2026/03/04
+- Added various <style> elements to the index.html file
+
+## Day 10
 ### Tuesday 2026/03/03
 - Built the About page
 - Added common nav section to all three pages
