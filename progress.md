@@ -1,5 +1,9 @@
 # Learning Web Dev — Progress Log
 
+## Day 9
+### Sunday 2026/03/01
+- Completed the exercise to use the developer tools to inspect my page
+
 ## Day 8
 ### Saturday 2026/02/28
 - Closed out the month by creating my first form!
