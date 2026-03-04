@@ -1,6 +1,6 @@
 # Learning Web Dev — Progress Log
 
-## Day 10
+## Day 11
 ### Wednesday 2026/03/04
 - Added various <style> elements to the index.html file
 
