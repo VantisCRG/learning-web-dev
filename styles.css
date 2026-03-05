@@ -1,0 +1,25 @@
+/* ==================================================== */
+/*  styles.css
+/*  ---------------------------------------------------
+/*  This file contains defined styles project-wide.
+/* ==================================================== */
+
+/*  h1      Heading Level 1 Style                       */
+        h1 {
+            color: navy;
+            font-size: 28px;
+        }
+
+/*  p       Paragraph Style                             */
+        p {
+            color: red;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+/*  nav a style                                         */
+        nav a { color: darkred; font-size: 30px }
+
+/*  body style                                          */
+        body { background-color: lightcyan; }
+
