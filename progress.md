@@ -1,5 +1,5 @@
 # Learning Web Dev — Progress Log
-
+ 
 ## Day 13
 ### Friday 2026/03/06
 - advanced into concepts of padding / border / margin
