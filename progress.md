@@ -1,5 +1,10 @@
 # Learning Web Dev — Progress Log
 
+## Day 12
+### Thursday 2026/03/05
+- built first CSS sheet and transferred all styles there
+- added include reference to each of the pages
+
 ## Day 11
 ### Wednesday 2026/03/04
 - Added various <style> elements to the index.html file
