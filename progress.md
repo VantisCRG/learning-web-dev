@@ -1,5 +1,11 @@
 # Learning Web Dev — Progress Log
 
+## Day 13
+### Friday 2026/03/06
+- advanced into concepts of padding / border / margin
+- more CSS style keywords and concepts
+- learned by accident about classes and id's
+
 ## Day 12
 ### Thursday 2026/03/05
 - built first CSS sheet and transferred all styles there
